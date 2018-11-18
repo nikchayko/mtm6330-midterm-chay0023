@@ -244,3 +244,19 @@ h1, h2, h3, h4, h5, h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+.about-section {
+  padding-top: 10rem;
+  background: #b3d9e2; /* Old browsers */
+  background: -moz-linear-gradient(top, #b3d9e2 0%, #668a9e 41%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #b3d9e2 0%,#668a9e 41%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #b3d9e2 0%,#668a9e 41%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3d9e2', endColorstr='#668a9e',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+
+.about-section p {
+  margin-bottom: 5rem;
+}
